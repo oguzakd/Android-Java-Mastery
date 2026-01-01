@@ -1,6 +1,6 @@
-# 🤖 Android Java Mastery: Core Concepts & Applications
+# 🤖 Android Java Mastery: Core Concepts & Applications (Java)
 
-This repository is a **structured collection of my Android development journey using Java**.  
+This repository is a **structured collection of my Android development journey using Java**.
 It covers core Android fundamentals as well as practical applications, focusing on **UI development**, **data persistence**, and **thread management**.
 
 The goal of this repository is to demonstrate a **progressive learning path** from basic Android concepts to complete, real-world mini applications.
@@ -103,3 +103,4 @@ This repository was created to:
 ---
 
 📌 *This repository represents a hands-on Android learning journey and will continue to evolve with more advanced topics and projects.*
+
